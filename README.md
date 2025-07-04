@@ -32,12 +32,16 @@ pip install tensorflow tensorflow-datasets matplotlib seaborn pandas numpy
 
 ### Class Distribution Bar Chart
 A bar plot showing how many samples are present for each digit class.
+![](https://github.com/ectorr01/MNIST-Dataset-Analysis/blob/main/Visualizations/Figure_1.png)
+
 
 ### Sample Image Grid
 A 3x3 grid displaying sample images from the dataset along with their corresponding labels.
+![](https://github.com/ectorr01/MNIST-Dataset-Analysis/blob/main/Visualizations/Figure_2.png)
 
 ### Class Distribution Heatmap
 A heatmap summarizing the count of images per class in a compact format.
+![](https://github.com/ectorr01/MNIST-Dataset-Analysis/blob/main/Visualizations/Figure_3.png)
 
 ## 🚀 Usage
 
